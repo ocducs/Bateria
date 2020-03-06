@@ -1,5 +1,3 @@
-# Bateria
-Libreria de ejemplo para una bateria. propuesta para la materia Sistemas Electronicos Programables. Universidad de Zaragoza.
 Welcome to the Bateria wiki!
 
 **Colaboradores**
@@ -7,6 +5,11 @@ Welcome to the Bateria wiki!
 <b>Yovani Zuñiga</b>
 <br>
 <img src="http://imgfz.com/i/pbX0yvP.jpeg" height="30%" width="30%" >
+<br>
+<br>
+<b>M. Boss Dev</b>
+<br>
+<img src="http://imgfz.com/i/71djSDN.jpeg" height="30%" width="30%" >
 <br>
 <br>
 <b>Jose Senior Dev</b>
